@@ -1,12 +1,12 @@
-# Bael Netlify CMS Template
+# Netlify CMS Template (Based on Bael CMS)
 
-![Bael](https://i.imgur.com/e1zmiB2.jpg "Bael CMS Blog Template")
+![Bael](https://i.imgur.com/e1zmiB2.jpg "CMS Template for Netlify")
 
-> Bael is a free template that gives you an easy way to start a blog that uses modern technologies like static-site JAMstack architecture, CSS grid layout, responsive design, and fuzzy search — all wrapped up in a brutalist aesthetic.
+> This is a free template that gives you an easy way to start a site or blog that uses modern technologies like static-site JAMstack architecture, CSS grid layout, responsive design, and fuzzy search — all wrapped up in a pretty sweet style.
 
 ## Info
 
-Bael runs using [Nuxt.js](https://nuxtjs.org), [Vue.js](https://vuejs.org), [Netlify CMS](https://netlifycms.org), and is hosted by [Netlify](https://netlify.com). Bael requires an account with Netlify and Github/Bitbucket to deploy. Made by [Jake 101](https://jake101.com)
+This template runs using [Nuxt.js](https://nuxtjs.org), [Vue.js](https://vuejs.org), [Netlify CMS](https://netlifycms.org), and is hosted by [Netlify](https://netlify.com). It requires an account with Netlify and Github/Bitbucket to deploy. Based on Bael made by [Jake 101](https://jake101.com)
 
 ## Deploy to Netlify
 
